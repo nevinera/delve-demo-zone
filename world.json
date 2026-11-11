@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "delve-demo-zone",
+  "continents": [
+    {
+      "key": "main",
+      "name": "Main"
+    }
+  ]
+}
